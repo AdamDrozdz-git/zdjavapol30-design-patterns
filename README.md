@@ -1,0 +1,1 @@
+# zdjavapol30-design-patterns
