@@ -1,4 +1,4 @@
-package pl.sdacademy.designpatterns.singleton.lazy.v1;
+package pl.sdacademy.designpatterns.creational.singleton.lazy.v1;
 
 public class Universe {
     private static Universe instance;

@@ -1,12 +1,10 @@
-package pl.sdacademy.designpatterns.singleton.eager.v1;
-
-import pl.sdacademy.designpatterns.singleton.eager.v2.Universe;
+package pl.sdacademy.designpatterns.creational.singleton.eager.v2;
 
 public class Main {
     public static void main(String[] args) throws ClassNotFoundException {
         System.out.println("Start aplikacji");
         System.out.println("ładowanie klasy Universe");
-        Class.forName("pl.sdacademy.designpatterns.singleton.eager.v1.Universe");
+        Class.forName("pl.sdacademy.designpatterns.creational.singleton.eager.v2.Universe");
         System.out.println("Przypisanie instatncji do zmiennej");
         Universe universe = Universe.INSTANCE;
         System.out.println(universe == Universe.INSTANCE);

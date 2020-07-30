@@ -1,4 +1,4 @@
-package pl.sdacademy.designpatterns.singleton.eager.v2;
+package pl.sdacademy.designpatterns.creational.singleton.eager.v2;
 
 public class Universe {
     public final static Universe INSTANCE = new Universe();
