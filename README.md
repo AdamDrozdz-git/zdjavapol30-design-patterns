@@ -1,1 +1,2 @@
-# zdjavapol30-design-patterns
+# Wzorce projektowe
+Opis projektu.
